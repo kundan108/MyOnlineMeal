@@ -255,15 +255,4 @@ footer{
         background-color: #04AA6D;
         color: white;
     }
-    /* Style the hamburger menu */
-    .topnav .ham a.icon{
-        background:rgb(39, 39, 39);
-        display: block;
-        position: absolute;
-        padding: 14px 16px;
-        font-size: 30px;
-        right: 0;
-        top: 0;
-    }
-  
 }
