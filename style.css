@@ -92,16 +92,13 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  .s {
-    width: 100%;
-  }
-
-  .wrapper {
-    margin-bottom: 1em;
-    display: block;
-  }
-  .box1, .box2, .t1{
+  t1,
+  .box1,
+  .box2 {
     background-color: yellow;
+  }
+  .wrapper {
+    width: 100%;
   }
 }
 
