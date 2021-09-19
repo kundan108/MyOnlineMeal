@@ -102,14 +102,4 @@ body {
   }
 }
 
-@media screen and (max-width: 769px) and (max-width: 1200px) {
-  .m {
-    width: 50%;
-  }
-}
 
-@media screen and (max-width: 1201px) {
-  .l {
-    width: 100%;
-  }
-}
